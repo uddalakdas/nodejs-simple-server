@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-simple-server",
+  "version": "1.0.0",
+  "description": "Simple nodejs server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/main/app.js",
+    "test": "node src/test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uddalakdas/nodejs-simple-server.git"
+  },
+  "dependencies": {
+    "express": "~3.13.0",
+    "formidable": "^1.0.15"
+  },
+  "author": "Uddalak Das",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uddalakdas/nodejs-simple-server/issues"
+  },
+  "homepage": "https://github.com/uddalakdas/nodejs-simple-server"
+}
